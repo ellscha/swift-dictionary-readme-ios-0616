@@ -28,3 +28,9 @@ definition = favoriteWords["strategery"]
 
 favoriteWords["strategery"] = nil
 print(favoriteWords)
+
+let name: String = "Theadore Roosevelt"
+favoriteWords["penultimate"] = "Second to last"
+favoriteWords["qualm"] = "an uneasy feeling of doubt"
+
+print(favoriteWords)
